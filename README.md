@@ -1,28 +1,9 @@
-# Eloquent javascript 
-##
-### Eloquent
- 
-1. Punkts 
-    + punkt 1
-    + punkt 2
-    + punkt 3
-2. Lists
+# Eloquent javascript second edition 
 
+## Here i will publish my summary by this book.
 
-List **are** ewry lesson important english ***fluently***
+### Summary like a code from whole lesson and complete homework after it.
 
-```
-git add . 
-git commit -m "message"
-git push
-```
-
-> **Don't** stop when you tired  
-stop when you **Done**  
-
-
-[Our site](http://localhost:5000)
-
-![alt](./img/gleb.jpg)
-
-[![](/img/gleb.jpg)](https://greenfam.by)
+* Ununderstand code from lessons
+* Comments and explonations
+* Home work
